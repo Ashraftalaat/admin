@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "494350034894",
+    "project_id": "ecommerce-1bbff",
+    "storage_bucket": "ecommerce-1bbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494350034894:android:444434b243eac6b5752d9f",
+        "android_client_info": {
+          "package_name": "com.atslook.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaEW3iTgu79MsD2fKODK9SipBmmL35rY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494350034894:android:3684605015971dc4752d9f",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaEW3iTgu79MsD2fKODK9SipBmmL35rY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494350034894:android:b1b975a4c8313541752d9f",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaEW3iTgu79MsD2fKODK9SipBmmL35rY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
