@@ -1,7 +1,6 @@
 import 'package:admin/controller/categories/add_controller.dart';
 import 'package:admin/core/class/handingdataview.dart';
 import 'package:admin/core/constant/color.dart';
-import 'package:admin/core/function/uploadfile.dart';
 import 'package:admin/core/function/vaildinput.dart';
 import 'package:admin/core/shared/custombutton.dart';
 import 'package:admin/core/shared/customtextformglobal.dart';
